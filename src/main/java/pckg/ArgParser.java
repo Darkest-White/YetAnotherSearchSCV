@@ -7,6 +7,7 @@ public class ArgParser {
     private String outputFile;
     private int indexedColumnID = -1;
 
+    //
     /*private String dataFile = "src/main/resources/airports.csv";
     private String inputFile = "src/main/resources/input.txt";
     private String outputFile = "src/main/resources/result.json";
